@@ -1,0 +1,161 @@
+#-----------------------------------------------------------
+# Vivado v2016.4 (64-bit)
+# SW Build 1756540 on Mon Jan 23 19:11:23 MST 2017
+# IP Build 1755317 on Mon Jan 23 20:30:07 MST 2017
+# Start of session at: Wed Dec 14 19:16:43 2022
+# Process ID: 11284
+# Current directory: D:/MATERIALE AN 3 SEM 1/SSC/PROIECT/mips_ssc/mips_ssc.runs/impl_1
+# Command line: vivado.exe -log test_env.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source test_env.tcl -notrace
+# Log file: D:/MATERIALE AN 3 SEM 1/SSC/PROIECT/mips_ssc/mips_ssc.runs/impl_1/test_env.vdi
+# Journal file: D:/MATERIALE AN 3 SEM 1/SSC/PROIECT/mips_ssc/mips_ssc.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source test_env.tcl -notrace
+Design is defaulting to srcset: sources_1
+Design is defaulting to constrset: constrs_1
+INFO: [Netlist 29-17] Analyzing 61 Unisim elements for replacement
+INFO: [Netlist 29-28] Unisim Transformation completed in 0 CPU seconds
+INFO: [Project 1-479] Netlist was created with Vivado 2016.4
+INFO: [Device 21-403] Loading part xc7k70tfbv676-1
+INFO: [Project 1-570] Preparing netlist for logic optimization
+Parsing XDC File [D:/MATERIALE AN 3 SEM 1/SSC/PROIECT/mips_ssc/mips_ssc.srcs/constrs_1/new/const.xdc]
+CRITICAL WARNING: [Common 17-69] Command failed: 'V17' is not a valid site or package pin name. [D:/MATERIALE AN 3 SEM 1/SSC/PROIECT/mips_ssc/mips_ssc.srcs/constrs_1/new/const.xdc:12]
+CRITICAL WARNING: [Common 17-69] Command failed: 'V16' is not a valid site or package pin name. [D:/MATERIALE AN 3 SEM 1/SSC/PROIECT/mips_ssc/mips_ssc.srcs/constrs_1/new/const.xdc:14]
+CRITICAL WARNING: [Common 17-69] Command failed: 'W16' is not a valid site or package pin name. [D:/MATERIALE AN 3 SEM 1/SSC/PROIECT/mips_ssc/mips_ssc.srcs/constrs_1/new/const.xdc:16]
+CRITICAL WARNING: [Common 17-69] Command failed: 'W17' is not a valid site or package pin name. [D:/MATERIALE AN 3 SEM 1/SSC/PROIECT/mips_ssc/mips_ssc.srcs/constrs_1/new/const.xdc:18]
+CRITICAL WARNING: [Common 17-69] Command failed: 'W15' is not a valid site or package pin name. [D:/MATERIALE AN 3 SEM 1/SSC/PROIECT/mips_ssc/mips_ssc.srcs/constrs_1/new/const.xdc:20]
+CRITICAL WARNING: [Common 17-69] Command failed: 'V15' is not a valid site or package pin name. [D:/MATERIALE AN 3 SEM 1/SSC/PROIECT/mips_ssc/mips_ssc.srcs/constrs_1/new/const.xdc:22]
+CRITICAL WARNING: [Common 17-69] Command failed: 'W14' is not a valid site or package pin name. [D:/MATERIALE AN 3 SEM 1/SSC/PROIECT/mips_ssc/mips_ssc.srcs/constrs_1/new/const.xdc:24]
+CRITICAL WARNING: [Common 17-69] Command failed: 'W13' is not a valid site or package pin name. [D:/MATERIALE AN 3 SEM 1/SSC/PROIECT/mips_ssc/mips_ssc.srcs/constrs_1/new/const.xdc:26]
+CRITICAL WARNING: [Common 17-69] Command failed: 'T3' is not a valid site or package pin name. [D:/MATERIALE AN 3 SEM 1/SSC/PROIECT/mips_ssc/mips_ssc.srcs/constrs_1/new/const.xdc:30]
+CRITICAL WARNING: [Common 17-69] Command failed: 'T2' is not a valid site or package pin name. [D:/MATERIALE AN 3 SEM 1/SSC/PROIECT/mips_ssc/mips_ssc.srcs/constrs_1/new/const.xdc:32]
+CRITICAL WARNING: [Vivado 12-1815] Setting property 'IOSTANDARD' is not allowed for GT terminals. [D:/MATERIALE AN 3 SEM 1/SSC/PROIECT/mips_ssc/mips_ssc.srcs/constrs_1/new/const.xdc:35]
+CRITICAL WARNING: [Common 17-69] Command failed: 'W2' is not a valid site or package pin name. [D:/MATERIALE AN 3 SEM 1/SSC/PROIECT/mips_ssc/mips_ssc.srcs/constrs_1/new/const.xdc:36]
+CRITICAL WARNING: [Common 17-69] Command failed: 'T1' is not a valid site or package pin name. [D:/MATERIALE AN 3 SEM 1/SSC/PROIECT/mips_ssc/mips_ssc.srcs/constrs_1/new/const.xdc:40]
+CRITICAL WARNING: [Common 17-69] Command failed: 'R2' is not a valid site or package pin name. [D:/MATERIALE AN 3 SEM 1/SSC/PROIECT/mips_ssc/mips_ssc.srcs/constrs_1/new/const.xdc:42]
+CRITICAL WARNING: [Common 17-69] Command failed: 'E19' is not a valid site or package pin name. [D:/MATERIALE AN 3 SEM 1/SSC/PROIECT/mips_ssc/mips_ssc.srcs/constrs_1/new/const.xdc:49]
+CRITICAL WARNING: [Common 17-69] Command failed: 'V19' is not a valid site or package pin name. [D:/MATERIALE AN 3 SEM 1/SSC/PROIECT/mips_ssc/mips_ssc.srcs/constrs_1/new/const.xdc:53]
+CRITICAL WARNING: [Common 17-69] Command failed: 'W18' is not a valid site or package pin name. [D:/MATERIALE AN 3 SEM 1/SSC/PROIECT/mips_ssc/mips_ssc.srcs/constrs_1/new/const.xdc:55]
+CRITICAL WARNING: [Common 17-69] Command failed: 'U15' is not a valid site or package pin name. [D:/MATERIALE AN 3 SEM 1/SSC/PROIECT/mips_ssc/mips_ssc.srcs/constrs_1/new/const.xdc:57]
+CRITICAL WARNING: [Common 17-69] Command failed: 'U14' is not a valid site or package pin name. [D:/MATERIALE AN 3 SEM 1/SSC/PROIECT/mips_ssc/mips_ssc.srcs/constrs_1/new/const.xdc:59]
+CRITICAL WARNING: [Common 17-69] Command failed: 'V14' is not a valid site or package pin name. [D:/MATERIALE AN 3 SEM 1/SSC/PROIECT/mips_ssc/mips_ssc.srcs/constrs_1/new/const.xdc:61]
+CRITICAL WARNING: [Common 17-69] Command failed: 'V13' is not a valid site or package pin name. [D:/MATERIALE AN 3 SEM 1/SSC/PROIECT/mips_ssc/mips_ssc.srcs/constrs_1/new/const.xdc:63]
+CRITICAL WARNING: [Common 17-69] Command failed: 'U3' is not a valid site or package pin name. [D:/MATERIALE AN 3 SEM 1/SSC/PROIECT/mips_ssc/mips_ssc.srcs/constrs_1/new/const.xdc:69]
+CRITICAL WARNING: [Common 17-69] Command failed: 'P3' is not a valid site or package pin name. [D:/MATERIALE AN 3 SEM 1/SSC/PROIECT/mips_ssc/mips_ssc.srcs/constrs_1/new/const.xdc:71]
+CRITICAL WARNING: [Vivado 12-1411] Cannot set LOC property of ports, Site location (IPAD_X0Y6) is not valid for the shape with the following elements: 
+	led_OBUF[13]_inst
+	led[13]
+ [D:/MATERIALE AN 3 SEM 1/SSC/PROIECT/mips_ssc/mips_ssc.srcs/constrs_1/new/const.xdc:73]
+CRITICAL WARNING: [Vivado 12-1411] Cannot set LOC property of ports, Site location (OPAD_X0Y0) is not valid for the shape with the following elements: 
+	led_OBUF[14]_inst
+	led[14]
+ [D:/MATERIALE AN 3 SEM 1/SSC/PROIECT/mips_ssc/mips_ssc.srcs/constrs_1/new/const.xdc:75]
+CRITICAL WARNING: [Common 17-69] Command failed: 'L1' is not a valid site or package pin name. [D:/MATERIALE AN 3 SEM 1/SSC/PROIECT/mips_ssc/mips_ssc.srcs/constrs_1/new/const.xdc:77]
+CRITICAL WARNING: [Common 17-69] Command failed: 'W7' is not a valid site or package pin name. [D:/MATERIALE AN 3 SEM 1/SSC/PROIECT/mips_ssc/mips_ssc.srcs/constrs_1/new/const.xdc:82]
+CRITICAL WARNING: [Common 17-69] Command failed: 'U8' is not a valid site or package pin name. [D:/MATERIALE AN 3 SEM 1/SSC/PROIECT/mips_ssc/mips_ssc.srcs/constrs_1/new/const.xdc:86]
+CRITICAL WARNING: [Common 17-69] Command failed: 'V5' is not a valid site or package pin name. [D:/MATERIALE AN 3 SEM 1/SSC/PROIECT/mips_ssc/mips_ssc.srcs/constrs_1/new/const.xdc:92]
+CRITICAL WARNING: [Common 17-69] Command failed: 'U18' is not a valid site or package pin name. [D:/MATERIALE AN 3 SEM 1/SSC/PROIECT/mips_ssc/mips_ssc.srcs/constrs_1/new/const.xdc:110]
+CRITICAL WARNING: [Common 17-69] Command failed: 'W19' is not a valid site or package pin name. [D:/MATERIALE AN 3 SEM 1/SSC/PROIECT/mips_ssc/mips_ssc.srcs/constrs_1/new/const.xdc:114]
+Finished Parsing XDC File [D:/MATERIALE AN 3 SEM 1/SSC/PROIECT/mips_ssc/mips_ssc.srcs/constrs_1/new/const.xdc]
+INFO: [Opt 31-138] Pushed 0 inverter(s) to 0 load pin(s).
+INFO: [Project 1-111] Unisim Transformation Summary:
+  A total of 22 instances were transformed.
+  RAM32M => RAM32M (RAMD32, RAMD32, RAMD32, RAMD32, RAMD32, RAMD32, RAMS32, RAMS32): 6 instances
+  RAM32X1S => RAM32X1S (RAMS32): 16 instances
+
+INFO: [Vivado_Tcl 4-424] Cannot write hardware definition file as there are no IPI block design hardware handoff files present
+Command: opt_design
+Attempting to get a license for feature 'Implementation' and/or device 'xc7k70t'
+INFO: [Common 17-349] Got license for feature 'Implementation' and/or device 'xc7k70t'
+Running DRC as a precondition to command opt_design
+
+Starting DRC Task
+INFO: [DRC 23-27] Running DRC with 2 threads
+INFO: [Project 1-461] DRC finished with 0 Errors
+INFO: [Project 1-462] Please refer to the DRC report (report_drc) for more information.
+
+Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.324 . Memory (MB): peak = 464.672 ; gain = 10.348
+INFO: [Timing 38-35] Done setting XDC timing constraints.
+
+Starting Logic Optimization Task
+Implement Debug Cores | Checksum: 18db3f194
+
+Phase 1 Retarget
+INFO: [Opt 31-138] Pushed 0 inverter(s) to 0 load pin(s).
+INFO: [Opt 31-49] Retargeted 0 cell(s).
+Phase 1 Retarget | Checksum: 14f486624
+
+Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.025 . Memory (MB): peak = 976.422 ; gain = 0.000
+
+Phase 2 Constant propagation
+INFO: [Opt 31-138] Pushed 0 inverter(s) to 0 load pin(s).
+INFO: [Opt 31-10] Eliminated 0 cells.
+Phase 2 Constant propagation | Checksum: 14f486624
+
+Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.033 . Memory (MB): peak = 976.422 ; gain = 0.000
+
+Phase 3 Sweep
+INFO: [Opt 31-12] Eliminated 59 unconnected nets.
+INFO: [Opt 31-11] Eliminated 0 unconnected cells.
+Phase 3 Sweep | Checksum: 1b8642172
+
+Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.054 . Memory (MB): peak = 976.422 ; gain = 0.000
+
+Phase 4 BUFG optimization
+INFO: [Opt 31-12] Eliminated 0 unconnected nets.
+INFO: [Opt 31-11] Eliminated 0 unconnected cells.
+Phase 4 BUFG optimization | Checksum: 1b8642172
+
+Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.105 . Memory (MB): peak = 976.422 ; gain = 0.000
+
+Starting Connectivity Check Task
+
+Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.001 . Memory (MB): peak = 976.422 ; gain = 0.000
+Ending Logic Optimization Task | Checksum: 1b8642172
+
+Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.108 . Memory (MB): peak = 976.422 ; gain = 0.000
+
+Starting Power Optimization Task
+INFO: [Pwropt 34-132] Skipping clock gating for clocks with a period < 2.00 ns.
+Ending Power Optimization Task | Checksum: 1b8642172
+
+Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.004 . Memory (MB): peak = 976.422 ; gain = 0.000
+INFO: [Common 17-83] Releasing license: Implementation
+23 Infos, 0 Warnings, 31 Critical Warnings and 0 Errors encountered.
+opt_design completed successfully
+opt_design: Time (s): cpu = 00:00:07 ; elapsed = 00:00:07 . Memory (MB): peak = 976.422 ; gain = 522.098
+Writing placer database...
+Writing XDEF routing.
+Writing XDEF routing logical nets.
+Writing XDEF routing special nets.
+Write XDEF Complete: Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.018 . Memory (MB): peak = 976.422 ; gain = 0.000
+INFO: [Common 17-1381] The checkpoint 'D:/MATERIALE AN 3 SEM 1/SSC/PROIECT/mips_ssc/mips_ssc.runs/impl_1/test_env_opt.dcp' has been generated.
+INFO: [DRC 23-27] Running DRC with 2 threads
+INFO: [Coretcl 2-168] The results of DRC are in file D:/MATERIALE AN 3 SEM 1/SSC/PROIECT/mips_ssc/mips_ssc.runs/impl_1/test_env_drc_opted.rpt.
+INFO: [Chipscope 16-241] No debug cores found in the current design.
+Before running the implement_debug_core command, either use the Set Up Debug wizard (GUI mode)
+or use the create_debug_core and connect_debug_core Tcl commands to insert debug cores into the design.
+Command: place_design
+Attempting to get a license for feature 'Implementation' and/or device 'xc7k70t'
+INFO: [Common 17-349] Got license for feature 'Implementation' and/or device 'xc7k70t'
+INFO: [DRC 23-27] Running DRC with 2 threads
+INFO: [Vivado_Tcl 4-198] DRC finished with 0 Errors
+INFO: [Vivado_Tcl 4-199] Please refer to the DRC report (report_drc) for more information.
+Running DRC as a precondition to command place_design
+INFO: [DRC 23-27] Running DRC with 2 threads
+ERROR: [DRC 23-20] Rule violation (BIVB-1) Bank IO standard Support - Bank 33 has incompatible IO(s) because: The LVCMOS33 I/O standard is not supported.  Move the following ports or change their properties:  
+cat[3]
+ERROR: [DRC 23-20] Rule violation (BIVB-1) Bank IO standard Support - Bank 34 has incompatible IO(s) because: The LVCMOS33 I/O standard is not supported.  Move the following ports or change their properties:  
+an[3:0], cat[1], cat[4], cat[6], led[9] and led[10]
+ERROR: [DRC 23-20] Rule violation (BIVB-1) Bank IO standard Support - Bank 34 has incompatible IO(s) because: The LVCMOS33 I/O standard is not supported.  Move the following ports or change their properties:  
+clk
+ERROR: [DRC 23-20] Rule violation (BIVB-1) Bank IO standard Support - Bank 34 has incompatible IO(s) because: The LVCMOS33 I/O standard is not supported.  Move the following ports or change their properties:  
+sw[8] and sw[13]
+INFO: [Vivado_Tcl 4-198] DRC finished with 4 Errors
+INFO: [Vivado_Tcl 4-199] Please refer to the DRC report (report_drc) for more information.
+ERROR: [Vivado_Tcl 4-23] Error(s) found during DRC. Placer not run.
+INFO: [Common 17-83] Releasing license: Implementation
+35 Infos, 0 Warnings, 31 Critical Warnings and 5 Errors encountered.
+place_design failed
+ERROR: [Common 17-39] 'place_design' failed due to earlier errors.
+
+INFO: [Common 17-206] Exiting Vivado at Wed Dec 14 19:16:57 2022...

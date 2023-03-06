@@ -1,0 +1,12 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  "../../../mips_ssc.srcs/sources_1/new/monoimpuls.vhd"
+vhdl xil_defaultlib  "../../../mips_ssc.srcs/sources_1/new/test_env.vhd"
+vhdl xil_defaultlib  "../../../mips_ssc.srcs/sources_1/new/instructionFetch.vhd"
+vhdl xil_defaultlib  "../../../mips_ssc.srcs/sources_1/new/uc.vhd"
+vhdl xil_defaultlib  "../../../mips_ssc.srcs/sources_1/new/ssd.vhd"
+vhdl xil_defaultlib  "../../../mips_ssc.srcs/sources_1/new/mem.vhd"
+vhdl xil_defaultlib  "../../../mips_ssc.srcs/sources_1/new/ex.vhd"
+vhdl xil_defaultlib  "../../../mips_ssc.srcs/sources_1/new/id.vhd"
+
+# Do not sort compile order
+nosort
